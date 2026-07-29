@@ -4,6 +4,9 @@
 
 > 题目：Vibe coding —— 从零实现一个最小可用 Agent。
 
+- 🔗 代码仓库：https://github.com/xyyyyi-x/mini-agent
+- 🎬 演示录屏：<!-- 录好后把链接填这里，如 B站/网盘/GitHub Release -->（待补充）
+
 ---
 
 ## 一、怎么运行（从这里开始）
